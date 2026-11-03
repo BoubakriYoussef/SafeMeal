@@ -1,8 +1,8 @@
-# RepasSur
+# SafeMeal
 
 [![CI](https://github.com/BoubakriYoussef/repas_sur2/actions/workflows/ci.yml/badge.svg)](https://github.com/BoubakriYoussef/repas_sur2/actions/workflows/ci.yml)
 
-RepasSur is a full-stack web application designed for institutional and collective catering services. It centralizes diner profiles, food allergies, dietary requirements, dishes, menus, and meal services to minimize allergen-related risks during meal preparation and service.
+SafeMeal is a full-stack web application designed for institutional and collective catering services. It centralizes diner profiles, food allergies, dietary requirements, dishes, menus, and meal services to minimize allergen-related risks during meal preparation and service.
 
 ## Project Overview
 
